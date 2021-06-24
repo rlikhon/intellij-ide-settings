@@ -26,9 +26,13 @@
           <option name="url" value="http://gitlab.bracits.com" />
           <option name="userName" value="ahadnoor.alam" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.bracits.com:productivity-tools/sdtool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/var/www/html/public_html" />
+    <option name="cloneParentDir" value="/var/www/html" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
