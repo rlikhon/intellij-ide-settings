@@ -4,5 +4,6 @@
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SORT_BOOKMARKS" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>
