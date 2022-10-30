@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="aa.aa" type="PLAIN_TEXT" />
       <mapping pattern="tutorial.svg" type="PLAIN_TEXT" />
       <mapping pattern="welearn_local_test" type="PLAIN_TEXT" />
+      <mapping pattern="aa.aa" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
